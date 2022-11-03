@@ -1,8 +1,8 @@
-#Web
+# Web
 web webpan oke;)
 
 
-#CARA MENGGUNAKANYA
+# CARA MENGGUNAKANYA
 Kalian tinggal install Python
 kalo sudah install python 
 lalu kalian run dengan cara ./main.sh
