@@ -1,0 +1,33 @@
+*,html{
+	padding: 0;
+	margin: 0;
+}
+.div{   
+	height:30%;
+	font-size:20px;
+	text-align: center; 
+	color: #345; 
+	padding-top: 10px;
+	background-color: #ff9e55;
+}
+.h1{
+	color: #317399;
+}
+
+.div2{  
+	height:60px;
+	margin:30;
+	text-align:center;
+	font-size: 50px;
+	color: white;
+	background-color: orange;
+	border-radius:50px;
+}
+.div3{
+	height:60px;
+	margin:30;
+	text-align:center;
+	font-size:50px;
+	background-color:#82CD47;
+	border-radius:50px;
+}
