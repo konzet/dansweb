@@ -1,10 +1,10 @@
-# Web
+# DANSWEB
 web webpan oke;)
 
 
-# CARA MENGGUNAKANYA
-Kalian tinggal install Python
+# Use
+Kalian tinggal install Python 
 kalo sudah install python 
 lalu kalian run dengan cara ./main.sh
 
-untuk aset image ada di directory gambar/
+untuk aset image ada di directory asset/images
