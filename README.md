@@ -9,6 +9,7 @@ pkg install git
 ```
 kalian tinggal clone aja reponya
 ```
+cd ~
 git clone https://github.com/konzet/dansweb
 ```
 Terus Kalian install Python ditermux
