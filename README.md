@@ -3,7 +3,7 @@ web webpan oke;)
 
 
 ## Use
-Kalian tinggal install Python
+Kalian tinggal install Python ditermux
 ```
 pkg install python
 ```
@@ -14,4 +14,7 @@ chmod +x main.sh
 ./main.sh
 ```
 
-untuk aset image ada di directory asset/images/
+untuk aset gambar ada di directory 
+```
+asset/images/
+```
