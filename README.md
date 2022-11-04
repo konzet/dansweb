@@ -1,7 +1,6 @@
 # DANSWEB
-web webpan localhost pake termux ;)
-mau nambahin atau modif terserah:)
-males ngoding;^)
+web webpan localhost pake termux ;)\
+mau nambahin atau modif terserah:)\
 
 ## Use
 install dulu gitnya!;)
@@ -19,6 +18,7 @@ pkg install python
 kalo sudah install python 
 lalu kalian run dengan cara 
 ```
+cd ~/dansweb
 chmod +x main.sh
 ./main.sh
 ```
