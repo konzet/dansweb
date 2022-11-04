@@ -1,9 +1,18 @@
 # DANSWEB
-web webpan oke;)
-
+web webpan localhost pake termux ;)
+mau nambahin atau modif terserah:)
+males ngoding;^)
 
 ## Use
-Kalian tinggal install Python ditermux
+install dulu gitnya!;)
+```
+pkg install git
+```
+kalian tinggal clone aja reponya
+```
+git clone https://github.com/konzet/dansweb
+```
+Terus Kalian install Python ditermux
 ```
 pkg install python
 ```
