@@ -1,6 +1,6 @@
 # DANSWEB
 web webpan localhost pake termux ;)\
-mau nambahin atau modif terserah:)\
+mau nambahin atau modif terserah:)
 
 ## Use
 install dulu gitnya!;)
